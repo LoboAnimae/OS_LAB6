@@ -1,0 +1,30 @@
+Due: Apr. 26, 2021
+
+Concepts:
+	- Mutex Lock
+		Ensures that two concurrent processes or threads do not execute 
+		some particular program segment (critical section).
+	- Semaphores
+		Generally used as a syncronization object between multiple threads
+		or to protect a limited and finite resource, such as a memory or a
+		thread pool. It contains a counter that only permits access by one
+		or more threads when the value of the semaphore is non-zero.
+	- Monitors
+		Synchronization mechanism that protects a critical region, such as
+		a mutex. Only one thread may be active at a time inside the critical
+		region. The monitor allows for the suspension of a thread inside the
+		critical region, allowing another thread to enter the critical region.
+
+Materials:
+	- Glibc-able Machine --> SATISFIED (WSL 2)
+
+Instructions:
+	- Given a digital resource
+		=-= Write a simulator that creates an amount of threads
+		=-= All threads will execute the same methods
+			=+= Will contain a cycle with VARIABLE number of iterations.
+			=+= Each cycle will consume one unit from the resources
+				-=- At the end of a cycle, it must return the resource
+			=+= The program will wait a distinct amount of time
+		=-= Let the main program wait for all to finish
+		
