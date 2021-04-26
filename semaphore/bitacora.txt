@@ -21,11 +21,11 @@ Iniciando thread 6
 Iniciando thread 7
 7 - Iniciando iteracion 1
 7 - Semaforo abierto con exito.
+Iniciando thread 9
+9 - Iniciando iteracion 1
 Iniciando thread 8
 8 - Iniciando iteracion 1
 8 - Semaforo abierto con exito.
-Iniciando thread 9
-9 - Iniciando iteracion 1
 9 - Semaforo abierto con exito.
 Iniciando thread 10
 10 - Iniciando iteracion 1
@@ -33,207 +33,189 @@ Iniciando thread 10
 Iniciando thread 11
 11 - Iniciando iteracion 1
 1 - Recurso devuelto :)
+11 - Semaforo abierto con exito.
 2 - Recurso devuelto :)
-2 - Semaforo abierto con exito.
+1 - Semaforo abierto con exito.
 3 - Recurso devuelto :)
 3 - Semaforo abierto con exito.
-1 - Semaforo abierto con exito.
 4 - Recurso devuelto :)
+2 - Semaforo abierto con exito.
 5 - Recurso devuelto :)
 4 - Semaforo abierto con exito.
-5 - Semaforo abierto con exito.
 6 - Recurso devuelto :)
-6 - Semaforo abierto con exito.
+5 - Semaforo abierto con exito.
 7 - Recurso devuelto :)
+6 - Semaforo abierto con exito.
+9 - Recurso devuelto :)
 7 - Semaforo abierto con exito.
 8 - Recurso devuelto :)
-9 - Recurso devuelto :)
 9 - Semaforo abierto con exito.
 10 - Recurso devuelto :)
 10 - Semaforo abierto con exito.
+11 - Recurso devuelto :)
+11 - Iniciando iteracion 2
 8 - Semaforo abierto con exito.
 1 - Recurso devuelto :)
-3 - Recurso devuelto :)
 1 - Iniciando iteracion 2
-1 - Semaforo abierto con exito.
+11 - Semaforo abierto con exito.
+3 - Recurso devuelto :)
 3 - Iniciando iteracion 2
+1 - Semaforo abierto con exito.
+2 - Recurso devuelto :)
+2 - Iniciando iteracion 2
+3 - Semaforo abierto con exito.
 4 - Recurso devuelto :)
 4 - Iniciando iteracion 2
-4 - Semaforo abierto con exito.
-5 - Recurso devuelto :)
-2 - Recurso devuelto :)
-5 - Iniciando iteracion 2
-5 - Semaforo abierto con exito.
-2 - Iniciando iteracion 2
 2 - Semaforo abierto con exito.
-11 - Semaforo abierto con exito.
+5 - Recurso devuelto :)
+5 - Iniciando iteracion 2
+4 - Semaforo abierto con exito.
 6 - Recurso devuelto :)
 6 - Iniciando iteracion 2
+5 - Semaforo abierto con exito.
+9 - Recurso devuelto :)
+9 - Iniciando iteracion 2
 6 - Semaforo abierto con exito.
 7 - Recurso devuelto :)
+9 - Semaforo abierto con exito.
 7 - Iniciando iteracion 2
+10 - Recurso devuelto :)
 7 - Semaforo abierto con exito.
-9 - Recurso devuelto :)
+10 - Iniciando iteracion 2
 8 - Recurso devuelto :)
 8 - Iniciando iteracion 2
 8 - Semaforo abierto con exito.
-10 - Recurso devuelto :)
-10 - Iniciando iteracion 2
-10 - Semaforo abierto con exito.
-9 - Iniciando iteracion 2
-3 - Semaforo abierto con exito.
-1 - Recurso devuelto :)
-1 - Semaforo abierto con exito.
-4 - Recurso devuelto :)
-4 - Semaforo abierto con exito.
-5 - Recurso devuelto :)
-5 - Semaforo abierto con exito.
-2 - Recurso devuelto :)
-2 - Semaforo abierto con exito.
-11 - Recurso devuelto :)
-6 - Recurso devuelto :)
-6 - Semaforo abierto con exito.
-11 - Iniciando iteracion 2
-9 - Semaforo abierto con exito.
-7 - Recurso devuelto :)
-7 - Semaforo abierto con exito.
-8 - Recurso devuelto :)
-8 - Semaforo abierto con exito.
-10 - Recurso devuelto :)
-10 - Semaforo abierto con exito.
-3 - Recurso devuelto :)
-3 - Semaforo abierto con exito.
 1 - Recurso devuelto :)
 1 - Iniciando iteracion 3
 1 - Semaforo abierto con exito.
-4 - Recurso devuelto :)
-4 - Iniciando iteracion 3
-4 - Semaforo abierto con exito.
-5 - Recurso devuelto :)
-5 - Iniciando iteracion 3
-5 - Semaforo abierto con exito.
-6 - Recurso devuelto :)
+10 - Semaforo abierto con exito.
+11 - Recurso devuelto :)
+11 - Iniciando iteracion 3
+11 - Semaforo abierto con exito.
+3 - Recurso devuelto :)
+3 - Iniciando iteracion 3
+3 - Semaforo abierto con exito.
 2 - Recurso devuelto :)
 2 - Iniciando iteracion 3
 2 - Semaforo abierto con exito.
+4 - Recurso devuelto :)
+6 - Recurso devuelto :)
 6 - Iniciando iteracion 3
 6 - Semaforo abierto con exito.
-9 - Recurso devuelto :)
-7 - Recurso devuelto :)
-7 - Iniciando iteracion 3
-7 - Semaforo abierto con exito.
-9 - Semaforo abierto con exito.
-8 - Recurso devuelto :)
-8 - Iniciando iteracion 3
-8 - Semaforo abierto con exito.
-10 - Recurso devuelto :)
-10 - Iniciando iteracion 3
-10 - Semaforo abierto con exito.
-3 - Recurso devuelto :)
-3 - Iniciando iteracion 3
-11 - Semaforo abierto con exito.
-1 - Recurso devuelto :)
-1 - Semaforo abierto con exito.
-4 - Recurso devuelto :)
+4 - Iniciando iteracion 3
 4 - Semaforo abierto con exito.
-5 - Recurso devuelto :)
-5 - Semaforo abierto con exito.
-2 - Recurso devuelto :)
-2 - Semaforo abierto con exito.
-6 - Recurso devuelto :)
-6 - Semaforo abierto con exito.
-7 - Recurso devuelto :)
 9 - Recurso devuelto :)
 9 - Iniciando iteracion 3
 9 - Semaforo abierto con exito.
+5 - Recurso devuelto :)
+5 - Iniciando iteracion 3
+5 - Semaforo abierto con exito.
+7 - Recurso devuelto :)
+7 - Iniciando iteracion 3
+7 - Semaforo abierto con exito.
 8 - Recurso devuelto :)
 8 - Semaforo abierto con exito.
-7 - Semaforo abierto con exito.
+1 - Recurso devuelto :)
+1 - Semaforo abierto con exito.
 10 - Recurso devuelto :)
+10 - Iniciando iteracion 3
+10 - Semaforo abierto con exito.
 11 - Recurso devuelto :)
 11 - Semaforo abierto con exito.
-10 - Semaforo abierto con exito.
+3 - Recurso devuelto :)
+3 - Semaforo abierto con exito.
+9 - Recurso devuelto :)
+9 - Semaforo abierto con exito.
+5 - Recurso devuelto :)
+5 - Semaforo abierto con exito.
+4 - Recurso devuelto :)
+4 - Semaforo abierto con exito.
+6 - Recurso devuelto :)
+6 - Semaforo abierto con exito.
+2 - Recurso devuelto :)
+2 - Semaforo abierto con exito.
+7 - Recurso devuelto :)
+7 - Semaforo abierto con exito.
+8 - Recurso devuelto :)
+8 - Iniciando iteracion 3
+8 - Semaforo abierto con exito.
 1 - Recurso devuelto :)
 1 - Iniciando iteracion 4
 1 - Semaforo abierto con exito.
-4 - Recurso devuelto :)
-4 - Iniciando iteracion 4
-4 - Semaforo abierto con exito.
+11 - Recurso devuelto :)
+11 - Iniciando iteracion 4
+11 - Semaforo abierto con exito.
+10 - Recurso devuelto :)
+10 - Semaforo abierto con exito.
+3 - Recurso devuelto :)
+3 - Iniciando iteracion 4
+3 - Semaforo abierto con exito.
+9 - Recurso devuelto :)
+9 - Iniciando iteracion 4
+9 - Semaforo abierto con exito.
 5 - Recurso devuelto :)
 5 - Iniciando iteracion 4
 5 - Semaforo abierto con exito.
+4 - Recurso devuelto :)
+4 - Iniciando iteracion 4
+4 - Semaforo abierto con exito.
 2 - Recurso devuelto :)
 2 - Iniciando iteracion 4
 2 - Semaforo abierto con exito.
 6 - Recurso devuelto :)
 6 - Iniciando iteracion 4
 6 - Semaforo abierto con exito.
-8 - Recurso devuelto :)
-9 - Recurso devuelto :)
-8 - Iniciando iteracion 4
-8 - Semaforo abierto con exito.
 7 - Recurso devuelto :)
-9 - Semaforo abierto con exito.
-11 - Recurso devuelto :)
 7 - Iniciando iteracion 4
 7 - Semaforo abierto con exito.
+8 - Recurso devuelto :)
+8 - Semaforo abierto con exito.
+1 - Recurso devuelto :)
+1 - Semaforo abierto con exito.
 10 - Recurso devuelto :)
 10 - Iniciando iteracion 4
 10 - Semaforo abierto con exito.
-11 - Iniciando iteracion 3
+11 - Recurso devuelto :)
 11 - Semaforo abierto con exito.
-1 - Recurso devuelto :)
-1 - Semaforo abierto con exito.
+9 - Recurso devuelto :)
+9 - Semaforo abierto con exito.
+3 - Recurso devuelto :)
+3 - Semaforo abierto con exito.
+5 - Recurso devuelto :)
+5 - Semaforo abierto con exito.
 4 - Recurso devuelto :)
 4 - Semaforo abierto con exito.
 2 - Recurso devuelto :)
-5 - Recurso devuelto :)
-5 - Semaforo abierto con exito.
 2 - Semaforo abierto con exito.
 6 - Recurso devuelto :)
 6 - Semaforo abierto con exito.
-8 - Recurso devuelto :)
-8 - Semaforo abierto con exito.
 7 - Recurso devuelto :)
-9 - Recurso devuelto :)
-9 - Iniciando iteracion 4
-9 - Semaforo abierto con exito.
 7 - Semaforo abierto con exito.
-11 - Recurso devuelto :)
-10 - Recurso devuelto :)
-10 - Semaforo abierto con exito.
-11 - Semaforo abierto con exito.
+8 - Recurso devuelto :)
+8 - Iniciando iteracion 4
+8 - Semaforo abierto con exito.
 1 - Recurso devuelto :)
 Terminando thread 1
-3 - Semaforo abierto con exito.
-4 - Recurso devuelto :)
-Terminando thread 4
-2 - Recurso devuelto :)
-Terminando thread 2
-5 - Recurso devuelto :)
-Terminando thread 5
-6 - Recurso devuelto :)
-Terminando thread 6
-8 - Recurso devuelto :)
-Terminando thread 8
-7 - Recurso devuelto :)
-Terminando thread 7
-9 - Recurso devuelto :)
-9 - Semaforo abierto con exito.
 10 - Recurso devuelto :)
-11 - Recurso devuelto :)
-Terminando thread 10
-11 - Iniciando iteracion 4
-11 - Semaforo abierto con exito.
-3 - Recurso devuelto :)
-3 - Semaforo abierto con exito.
-9 - Recurso devuelto :)
-Terminando thread 9
-11 - Recurso devuelto :)
-11 - Semaforo abierto con exito.
-3 - Recurso devuelto :)
-3 - Iniciando iteracion 4
-3 - Semaforo abierto con exito.
+10 - Semaforo abierto con exito.
 11 - Recurso devuelto :)
 Terminando thread 11
+9 - Recurso devuelto :)
+Terminando thread 9
+5 - Recurso devuelto :)
+Terminando thread 5
+4 - Recurso devuelto :)
+Terminando thread 4
+3 - Recurso devuelto :)
+Terminando thread 3
+2 - Recurso devuelto :)
+Terminando thread 2
+6 - Recurso devuelto :)
+Terminando thread 6
+7 - Recurso devuelto :)
+Terminando thread 7
+8 - Recurso devuelto :)
+8 - Semaforo abierto con exito.
+10 - Recurso devuelto :)
+Terminando thread 10
 Fertig!

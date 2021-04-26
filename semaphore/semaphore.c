@@ -48,7 +48,7 @@ int main() {
     printf("Iniciando programa\n");
 
     // Variable init
-    sem = sem_open("pSem", O_CREAT, 0600, &value);
+    sem = sem_open("pSem", O_CREAT, 0777, &value);
     if (sem == SEM_FAILED) {
         printf("============================\nERROR: SEMAPHORE ERROR\n============================\n");
         exit(-1);
